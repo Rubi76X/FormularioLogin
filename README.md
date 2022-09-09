@@ -5,7 +5,7 @@ Formulario de login
 
 ##Se creo una rama por cambio
 
-***info**: Se agrego el archivo .gitignore y se modifico el README
-***estilo**: Se creo el archivo style.css
-***js_branch**: Se creo el archivo js.main
-***link**: Para subir practicar la creación de ramas
+1.**info**: Se agrego el archivo .gitignore y se modifico el README
+2.**estilo**: Se creo el archivo style.css
+3.**js_branch**: Se creo el archivo js.main
+4.**link**: Para subir practicar la creación de ramas
